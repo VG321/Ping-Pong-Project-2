@@ -1,0 +1,40 @@
+.heading{
+    font-size: 30;
+    text-align: left;
+    width: 99%
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+.heading h3{
+    display: inline;
+}
+
+#start{
+    font-size: 22px;
+}
+
+h4{
+    background-color: aquamarine;
+    line-height: 2;
+    margin: 0px;
+    margin-bottom: 0px;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.instruction_img{
+    display: inline-block;
+    width: 45%;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
